@@ -1,0 +1,11 @@
+﻿  ДЗ 7.cpp
+C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(219,6): error C2601: 'audit': local function definitions are illegal
+      C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(168,62):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(245,5): error C2601: 'main': local function definitions are illegal
+      C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(168,62):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Maxym\Desktop\ДЗ 7\ДЗ 7.cpp(245,12): error C1075: '{': no matching token found
